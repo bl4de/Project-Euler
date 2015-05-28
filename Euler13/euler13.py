@@ -106,4 +106,4 @@ sum = 0
 for i in range(0, len(numbers)):
     sum += numbers[i]
     
-print str(sum)[0:10]
+print str(sum)[0:10]    # 5537376230
