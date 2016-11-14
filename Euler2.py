@@ -21,4 +21,4 @@ while True:
 	if tmp % 2 == 0:
 		s = s + tmp
 
-print 'sum of even numbers is {}'.format(s + 2)
+print 'sum of even numbers is {}'.format(s + 2) # sum of even numbers is 4613732
